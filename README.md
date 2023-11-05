@@ -10,7 +10,7 @@
 <p align="right">
   <h3 align="left">Connect With Me</h3>
 <a href="https://linkedin.com/in/ahsan-raza8hbb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahsan-raza8hbb" height="30" width="40" /></a>
-<a href="https://instagram.com/ahsanrazakolachibalouch" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahsanrazakolachibalouch" height="30" width="40" /></a>
+<a href="https://instagram.com/ahsan.razaitz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahsanrazakolachibalouch" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCj-smesq36B1MonuAYYKrJw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="questionabletechie110" height="30" width="40" /></a>
 </p>
   
