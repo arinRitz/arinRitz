@@ -3,7 +3,7 @@
 </div>
 
 <h2>Hi 👋,</h2>
-<h3 align="center">I'm a Undergrad student who is gaining knowledge in problem solving. I'm learning how to code. I love making and designing webpages with HTML,CSS and Bootstrap (and possible JavaScript in the future).  It's fun to code something that anyone on the web can easily see. i enjoy creating visuals using Photoshop + AI. I also enjoy programming in C++ and Python because they challenge me more. I love it when I can finally solve a difficult problem.<br>🔭 I’m currently learning Javascript,PHP,ReactJS,Python,MATLAB,AI-Prompts.<br>
+<h3 align="center">I'm a Undergrad student who is gaining knowledge in problem solving. I'm learning how to code. I love making and designing webpages with HTML,CSS and Bootstrap (and possible JavaScript in the future).  It's fun to code something that anyone on the web can easily see. i enjoy creating visuals using Photoshop + AI. I also enjoy programming in C++ and Python because they challenge me more. I love it when i finally solve a difficult problem.<br>🔭 I’m currently learning Javascript,PHP,ReactJS,Python,MATLAB,AI-Prompts.<br>
 🌱 I’m currently working on creating webpages(frontend) and learning how to progam.</h3>
 
 
