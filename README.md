@@ -55,6 +55,3 @@
 
 <h3 align="center">Thanks for Visiting..!!</h3>
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=arinRitz" alt="Profile Views">
-</p>
