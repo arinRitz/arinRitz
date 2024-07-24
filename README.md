@@ -2,7 +2,7 @@
   <img src="123.png" alt="Profile Banner">
 </div>
 
-<h3>Sometimes I add features just to see if I can, and Sometimes with a little help from Ctrl+C and Ctrl+V."</h3>
+<h3>Sometimes I add features just to see if I can, and sometimes with a little help from Ctrl+C and Ctrl+V."</h3>
 
 - **Languages:** C++, Python, JavaScript
 - **Frameworks/Libraries:** Bootstrap
