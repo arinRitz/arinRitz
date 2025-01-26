@@ -6,7 +6,7 @@
 
 - **Languages:** C++, Python, JavaScript
 - **Frameworks/Libraries:** Bootstrap
-- **Tools:** Photoshop, MATLAB, MySQL, Git
+- **Tools:** Photoshop, MySQL, Git
 - **Current Focus:** JavaScript, Python libraries, AI-Prompts
 - **Hobbies:** Reading, Code, Design
 
