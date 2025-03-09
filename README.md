@@ -5,7 +5,7 @@
 <h3>Sometimes I add features just to see if I can, and sometimes with a little help from Ctrl+C and Ctrl+V."</h3>
 
 - **Languages:** C++, Python, JavaScript, Typescript
-- **Frameworks/Libraries:**ReactJS Bootstrap
+- **Frameworks/Libraries:** ReactJS Bootstrap
 - **Tools:** Photoshop, MySQL, Git
 - **Current Focus:**React, Networking, JavaScript, Python libraries, AI-Prompts
 - **Hobbies:** Reading, Code, Design
