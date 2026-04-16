@@ -1,51 +1,20 @@
+<div align="center">
+  <img src="123.png" alt="Profile Banner" width="100%"/>
+</div>
+
 <br/>
+
+<div align="center">
+
 # Hi, I'm Ahsan Raza
----
 
-### 🧰 Tech Stack
-
-| Layer | Tools |
-|---|---|
-| **Frontend** | React.js · Next.js · Tailwind CSS · Bootstrap |
-| **Languages** | JavaScript · Python · C++ |
-| **Backend** *(learning)* | Django · Node.js · Next.js API |
-| **Databases** | MongoDB · MySQL |
-| **AI / ML** | Google Generative AI · Prompt Eng. · NumPy · Pandas · Scikit-learn |
-| **Tools** | Git · GitHub |
-
----
-
-### 🎯 Currently
-
-- ⚡ Sharpening my frontend edge
-- 🔩 Wiring the frontend brain to backend
-- 🤖 Building AI-powered web experiences
-- 🌐 Exploring networking & systems
-
----
-
-### 💡 A Few Things I Enjoy
-
-- Building UIs that solve real problems
-- Reading up on AI & tech trends
-- Designing interfaces people don't have to think about
-
----
-
-### 📬 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsan-raza8hbb)
+*I speak three languages — JavaScript, Python, and pixels.*
 
 </div>
 
 ---
 
-<div align="center">
+<br/>
 
-*"The best interface is the one the user never has to think about."*
-
-**FOCUSING....**
-
-</div>
+> By day — crafting interfaces that just **feel** right.
+> By night — learning the systems that power them.
